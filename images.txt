@@ -1,8 +1,1 @@
-chigusa/bililive-go
-ihmily/douyin-live-recorder
-onlyoffice/documentserver
-eugencepoi/nsfw_api
-jason5ng32/myip
-neosmemo/memos
-matrixdotorg/synapse
-whyour/qinglong
+snowdreamtech/frpc
